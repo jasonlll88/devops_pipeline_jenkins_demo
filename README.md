@@ -1,2 +1,0 @@
-# devops_pipeline_jenkins_demo
-devops_pipeline_jenkins_demo
